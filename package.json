@@ -1,0 +1,12 @@
+{
+  "name": "vue-perspective",
+  "version": "1.0.0",
+  "description": "Vue.js & CSS3 Perspective Playground",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Berk İpekoğlu",
+  "license": "ISC"
+}
